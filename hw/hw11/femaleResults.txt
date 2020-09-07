@@ -1,0 +1,11 @@
+Ava	Smith	Female	CS	2014	Full-time
+Ayanna	Miller	Female	IT	2018	Full-time
+Mia	Davis	Female	IT	2017	Part-time
+Ellie	Wilson	Female	CS	2015	Full-time
+Bella	Williams	Female	Business	2016	Part-time
+Roselyn	Jones	Female	Business	2017	Part-time
+Eva	Moore	Female	IT	2018	Full-time
+Nina	Taylor	Female	IT	2017	Full-time
+Jennifer	Powell	Female	CS	2015	Part-time
+Sophia	Wright	Female	Business	2018	Full-time
+Tracy	Scott	Female	Business	2016	Full-time
